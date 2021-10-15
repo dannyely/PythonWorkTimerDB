@@ -16,3 +16,4 @@ Here is an example of output from prior use
 
 ![Selection_105](https://user-images.githubusercontent.com/55502725/137533345-5c82a23f-9bec-4fe5-9118-cece420b2afb.png)
 
+For comments I use an initial code to categorize work I do (377 refers to a class code).
